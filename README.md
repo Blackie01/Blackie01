@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. I am Oludamola Oni, a Frontend Developed based in Nigeria
 
 <!--
 **Blackie01/Blackie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
