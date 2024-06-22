@@ -7,13 +7,13 @@ A Front-end Developer who is passionate about how humans interface and interact 
 
 I have worked with quite a number of tools and technologies, including:
 
-**Javascript:** React, Next.js, Angular  
-**Typescript**  
-**CSS:** CSS3, TailwindCSS, Material UI  
-**Animations:** GSAP  
-**API QUERY AND STATE MANAGEMENT:** React Query, Redux toolkit, Recoil.js  
-**Automation Testing:** Playwright  
-**Communication and Collaboration:** Jira, Trello, Slack
+* **Javascript:** React, Next.js, Angular  
+* **Typescript**  
+* **CSS:** CSS3, TailwindCSS, Material UI  
+* **Animations:** GSAP  
+* **API QUERY AND STATE MANAGEMENT:** React Query, Redux toolkit, Recoil.js  
+* **Automation Testing:** Playwright  
+* **Communication and Collaboration:** Jira, Trello, Slack
 
 ## Contact Me  
 📞 +2347061275703  
