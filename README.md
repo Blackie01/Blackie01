@@ -12,7 +12,7 @@ I have worked with quite a number of tools and technologies, including:
 * **CSS:** CSS3, TailwindCSS, Material UI  
 * **Animations:** GSAP  
 * **API QUERY AND STATE MANAGEMENT:** React Query, Redux toolkit, Recoil.js  
-* **Automation Testing:** Playwright  
+* **Automation Testing:** Playwright, Jest  
 * **Communication and Collaboration:** Jira, Trello, Slack
 
 ## Contact Me  
