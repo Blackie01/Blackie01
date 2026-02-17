@@ -1,6 +1,6 @@
 ## Hi there 👋. I am Oludamola Oni  
 
-A Front-end Developer who loves developing how humans interface and interact with computers and software.
+A Software Engineer who loves tinkering with computers and software.
 
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I write fictional stories and novels, and I love Formula 1
